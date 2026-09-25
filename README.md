@@ -10,12 +10,27 @@ Use this manifest URL in **Add-on Modules → Install Module → Manifest URL**:
 https://github.com/LucasChlz/Foundry-Actor-Image-Gallery-Distribution/releases/latest/download/module.json
 ```
 
-The release assets contain only the Foundry runtime (`scripts`, `styles`, `lang`, `module.json`, and `LICENSE`). Development files, tests, internal documentation, and local Patreon test overrides are not included.
+The release assets contain only the Foundry runtime (`scripts`, `styles`, `lang`, `module.json`, and `LICENSE`). Development files, tests, internal documentation, entitlement experiments, and Patreon implementations are not included.
+
+## Free features
+
+- per-Actor image galleries with search, tags, collections, favorites and manual ordering;
+- drag-and-drop image addition and reordering;
+- non-destructive portrait and Token framing presets;
+- independent Portrait/Token application targets and the gallery Token guard;
+- Quick Switch from Actor sheets, Token HUD, hotkeys and quick slots;
+- global GM-managed image gallery;
+- temporary appearances with safe revert;
+- metadata backup/import for Actor, global gallery and world;
+- custom color palette and resizable gallery layout;
+- stable public API for integrations.
+
+Appearance profiles, sequences, automation rules and the radial selection wheel are not shipped in this public package. They belong to the separate Patreon companion.
 
 ## Editions
 
 - **Free:** the public package available here.
-- **Patreon:** premium extensions will be developed in a separate private repository and will use the Free module as their base.
+- **Patreon:** premium extensions are developed in a separate private repository and use the Free module as their required base.
 
 Issues for the distributed module can be reported in this repository.
 

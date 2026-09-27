@@ -27,6 +27,28 @@ The release assets contain only the Foundry runtime (`scripts`, `styles`, `lang`
 
 Appearance profiles, sequences, automation rules and the radial selection wheel are not shipped in this public package. They belong to the separate Patreon companion.
 
+## Screenshots
+
+### Actor gallery
+
+![Actor Image Gallery overview](media/01-actor-image-gallery-overview.png)
+
+### Non-destructive Portrait and Token editor
+
+![Non-destructive Portrait and Token editor](media/02-nondestructive-portrait-token-editor.png)
+
+### Quick Switch
+
+![Quick Switch](media/03-quick-switch.png)
+
+### Custom color palette
+
+![Custom color palette](media/04-custom-color-palette.png)
+
+### Metadata backup and import
+
+![Metadata backup and import](media/05-metadata-backup-import.png)
+
 ## Editions
 
 - **Free:** the public package available here.
